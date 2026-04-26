@@ -19,4 +19,5 @@ combined em ig
   sudo ./showplymouth.sh 20
 ```
 also read the [wiki](https://wiki.archlinux.org/title/Plymouth)
-for opencore w grub change the /etc/default/grub.
+
+### **for opencore w grub installed (no grub-install tho; using OpenLinuxBoot) change the /etc/default/grub; read [this](https://dortania.github.io/docs/latest/Configuration.html#openlinuxboot)**
