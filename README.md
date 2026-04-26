@@ -2,6 +2,8 @@
 
 read the title lol
 
+<img width="500" height="500" alt="ply" src="https://github.com/user-attachments/assets/e200aa05-f40d-4c22-9f99-1a5d0bb06bb9" />
+
 
 ## Basically copied from [adi1090x's plymouth theme](https://github.com/adi1090x/plymouth-themes) and [thefudgeishot's apple2arch](https://www.reddit.com/r/unixporn/comments/tloxu8/plymouth_apple2arch/) 
 
