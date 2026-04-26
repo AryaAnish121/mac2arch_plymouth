@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=macarch
+Description=display mac to arch glitch animation
+Comment=created Arya
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/macarch
+ScriptFile=/usr/share/plymouth/themes/macarch/macarch.script
